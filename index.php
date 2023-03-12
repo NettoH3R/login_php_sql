@@ -7,9 +7,9 @@
     <title>Sistema Login</title>
 </head>
 <body>
-    <form action="" method="post">
+    <form action="" method="POST">
         <label for="">
-            
+
         </label>
 
     </form>
